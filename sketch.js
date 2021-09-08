@@ -1,4 +1,4 @@
-//Samriddho will change the world...
+//This project is dark, but it is so to start a congestion about traffic jams. Yes traffic jams.
 //this is just the beginning.
 
 var song;
